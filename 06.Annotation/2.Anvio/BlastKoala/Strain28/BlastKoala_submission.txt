@@ -1,0 +1,11 @@
+
+BlastKoala
+Taxonomy 218284
+
+pbravakos@hcmr.gr Str28_FirstHalf_Koala_Pilon.fasta # Received!
+bravakos@outlook.com Str28_SecondHalf_Koala_Pilon.fasta # No email received
+pbravakos@biol.uoa.gr Str28_SecondHalf_Koala_Pilon.fasta # Received
+
+
+pbravakos@gmail.com Str28_FirstHalf_Koala_Spades.fasta   # Received
+bravakos@gmail.com Str28_SecondHalf_Koala_Spades.fasta  # Received

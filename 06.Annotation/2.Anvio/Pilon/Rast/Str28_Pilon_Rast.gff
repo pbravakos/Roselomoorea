@@ -1,0 +1,11 @@
+##gff-version 3
+11_1243127	FIG	CDS	1	90	.	+	1	ID=fig|218284.20.peg.1;Name=hypothetical protein
+1_925877	FIG	CDS	1	108	.	-	1	ID=fig|218284.20.peg.2;Name=hypothetical protein
+1_925877	FIG	CDS	1	108	.	-	1	ID=fig|218284.20.peg.3;Name=hypothetical protein
+1_925877	FIG	CDS	1	108	.	-	1	ID=fig|218284.20.peg.4;Name=hypothetical protein
+1_925877	FIG	CDS	1	111	.	-	1	ID=fig|218284.20.peg.5;Name=hypothetical protein
+1_925877	FIG	CDS	1	111	.	-	1	ID=fig|218284.20.peg.6;Name=hypothetical protein
+2_58607	FIG	CDS	1	282	.	-	1	ID=fig|218284.20.peg.7;Name=hypothetical protein
+3_62824	FIG	CDS	1	93	.	+	1	ID=fig|218284.20.peg.8;Name=hypothetical protein
+3_62824	FIG	CDS	1	111	.	+	1	ID=fig|218284.20.peg.9;Name=hypothetical protein
+6_290599	FIG	CDS	1	99	.	+	1	ID=fig|218284.20.peg.10;Name=hypothetical protein

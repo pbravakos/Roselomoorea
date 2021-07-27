@@ -1,0 +1,31 @@
+
+PTHR23408	5054	METHYLMALONYL-COA MUTASE	42				mutase(PC00160)	
+PTHR30477:SF0	3332	METAL TRANSPORT SYSTEM MEMBRANE PROTEIN TM_0125-RELATED	9		response to metal ion(GO:0010038)	plasma membrane(GO:0005886)	ATP-binding cassette (ABC) transporter(PC00003)	
+PTHR24222:SF30	2630	ATP-BINDING/PERMEASE PROTEIN CYDC	12	ATPase activity(GO:0016887);active transmembrane transporter activity(GO:0022804)		integral component of plasma membrane(GO:0005887)	ATP-binding cassette (ABC) transporter(PC00003)	
+PTHR10031:SF0	4644	ATPASE PROTEIN 9	155	proton transmembrane transporter activity(GO:0015078);cation channel activity(GO:0005261);ligase activity(GO:0016874)	ATP synthesis coupled proton transport(GO:0015986)	proton-transporting ATP synthase complex, coupling factor F(o)(GO:0045263)	ATP synthase(PC00002)	
+PTHR11092:SF0	2558	EPIMERASE FAMILY PROTEIN SDR39U1	98				epimerase/racemase(PC00096)	
+PTHR11544:SF104	1260	COLD SHOCK PROTEIN CSPD	5	RNA binding(GO:0003723);transcription regulator activity(GO:0140110)	negative regulation of transcription, DNA-templated(GO:0045892);transcription, DNA-templated(GO:0006351);negative regulation of cellular component organization(GO:0051129);protein-containing complex disassembly(GO:0032984)	cytosol(GO:0005829)		
+PTHR43821	3608	NAD(P)H NITROREDUCTASE YDJA-RELATED	19				reductase(PC00198)	
+PTHR42901	5784	ALCOHOL DEHYDROGENASE	38	oxidoreductase activity(GO:0016491)	oxidation-reduction process(GO:0055114)	cytosol(GO:0005829)	dehydrogenase(PC00092)	
+PTHR30603:SF19	1407	RNA POLYMERASE SIGMA-F FACTOR	2				winged helix/forkhead transcription factor(PC00246)	
+PTHR32125:SF4	935	2-C-METHYL-D-ERYTHRITOL 4-PHOSPHATE CYTIDYLYLTRANSFERASE, CHLOROPLASTIC	82	nucleotidyltransferase activity(GO:0016779)			transferase(PC00220)	
+PTHR10357:SF178	3367	OLIGO-1,6-GLUCOSIDASE 3-RELATED	3	hydrolase activity, hydrolyzing O-glycosyl compounds(GO:0004553)	carbohydrate catabolic process(GO:0016052)		amylase(PC00048)	
+PTHR10954:SF18	3181	RIBONUCLEASE HII	45	endoribonuclease activity(GO:0004521)	mismatch repair(GO:0006298);RNA catabolic process(GO:0006401)	protein-containing complex(GO:0032991);intracellular(GO:0005622)	endoribonuclease(PC00094)	
+PTHR39165	3321	IG HYPOTHETICAL 17883	8					
+PTHR43384:SF4	3218	FLAGELLUM SITE-DETERMINING PROTEIN YLXH	20	ATPase activity(GO:0016887);ATP binding(GO:0005524)	cell division(GO:0051301);regulation of cell division(GO:0051302);negative regulation of cellular process(GO:0048523)	leaflet of membrane bilayer(GO:0097478);cytosol(GO:0005829);cytoplasmic side of plasma membrane(GO:0009898)		
+PTHR30294:SF38	4713	LINEARMYCIN RESISTANCE PERMEASE PROTEIN LNRN	22	transmembrane transporter activity(GO:0022857)	transmembrane transport(GO:0055085)	plasma membrane(GO:0005886)	ATP-binding cassette (ABC) transporter(PC00003)	
+PTHR42713:SF2	2052	HAMP DOMAIN-CONTAINING PROTEIN	3					
+PTHR11803:SF34	1953	TRANSLATION INITIATION INHIBITOR	4	hydrolase activity(GO:0016787)	organonitrogen compound catabolic process(GO:1901565)	cytosol(GO:0005829)	deaminase(PC00088)	
+PTHR34040:SF2	3213	FLAGELLAR BIOSYNTHETIC PROTEIN FLIQ	20					
+PTHR24221:SF430	3997	MULTIDRUG RESISTANCE ABC TRANSPORTER ATP-BINDING AND PERMEASE PROTEIN	3	ATPase activity(GO:0016887);lipid transporter activity(GO:0005319);active transmembrane transporter activity(GO:0022804)	transmembrane transport(GO:0055085)		ATP-binding cassette (ABC) transporter(PC00003)	
+PTHR39162	3821	GLL3345 PROTEIN	7					
+PTHR38448:SF2	3078	REGULATORY PROTEIN YLBF	4					
+PTHR30185:SF12	4915	TRANSCRIPTIONAL REGULATOR MANR	17					
+PTHR30477:SF8	1256	MANGANESE TRANSPORT SYSTEM MEMBRANE PROTEIN MNTD	5		response to metal ion(GO:0010038)	plasma membrane(GO:0005886)	ATP-binding cassette (ABC) transporter(PC00003)	
+PTHR11803:SF39	892	2-IMINOBUTANOATE/2-IMINOPROPANOATE DEAMINASE-RELATED	106	hydrolase activity(GO:0016787)	organonitrogen compound catabolic process(GO:1901565)	cytosol(GO:0005829)	deaminase(PC00088)	
+PTHR33383	3935	MEMBRANE PROTEIN INSERTION EFFICIENCY FACTOR-RELATED	82					
+PTHR30363:SF4	1424	HEAT-INDUCIBLE TRANSCRIPTION REPRESSOR HRCA	17				helix-turn-helix transcription factor(PC00116)	
+PTHR38452	3584	UPF0756 MEMBRANE PROTEIN YEAL	7			plasma membrane(GO:0005886)		
+PTHR10120:SF24	2791	CAAX PRENYL PROTEASE 1 HOMOLOG	142	metalloendopeptidase activity(GO:0004222)	protein prenylation(GO:0018342);protein processing(GO:0016485)		metalloprotease(PC00153)	
+PTHR30538:SF1	1218	L-LYSINE 2,3-AMINOMUTASE	18				mutase(PC00160)	
+PTHR45866:SF1	4845	DNA GYRASE SUBUNIT B, MITOCHONDRIAL	97				DNA topoisomerase(PC00017)	

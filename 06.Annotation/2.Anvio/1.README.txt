@@ -1,0 +1,81 @@
+Before starting the Anvio pipeline one should have prepared the following files, 
+which will be the input for all further analyses:
+
+1) A scaffold/contigs nucleotide fasta file, of the genome of interest.
+2) All Prokka annotation output files.
+3) GeneMarkS2 gff gene calls file.
+
+Also we have to prepare the following databases:
+1) COGs in Anvio
+	anvi-setup-ncbi-cogs --just-do-it --num-threads $SLURM_NTASKS
+2) PFAM in Anvio
+	anvi-setup-pfams
+3) Refseq in ${HOME}/Software/kaiju/kaijudb
+        git clone https://github.com/bioinformatics-centre/kaiju.github
+        cd kaiju/src
+        make
+	The following commands will create the Refseq database for kaiju.
+	mkdir ${HOME}/Software/kaiju/kaijudb
+	cd ${HOME}/Software/kaiju/kaijudb
+	kaiju-makedb -s refseq
+	rm -r *.bwt *.sa genome
+	NOTE: Kaiju only needs the files kaiju_db_nr_euk.fmi, nodes.dmp, and names.dmp. 
+4) Interpro 
+
+This pipeline has five manual steps, which cannot run on the bio server. Instead we have to run them manually.
+These steps are the following:
+
+1) BlastKoala https://www.kegg.jp/blastkoala/
+	a) We have to take the amino acid fasta file output from Anvio and upload it to BlastKoala web server.
+	b) We choose the correct Taxonomy ID, from NCBI.
+	c) We choose species_prokaryotes KEGG GENES database, but we have to be careful because the maximum number of
+	   amino acid sequences that can be analyzed in this database is 5000. In case we exceed this number we have
+	   two options: First is to split the file into two, run the analysis two times, and unite the output into
+	   into one file. Second is to run the analysis on the genus_prokaryotes KEGG GENES database, which has an
+	   upper limit of 10000 genes. Better option is certainly the first one.
+	d) We give our email and click "Request for email confirmation". We then have to accept the job from our
+	   email, and wait for the job to finish. We will receive a new email when this happens. Be careful
+	   because most of the times the email with the results link is recognized as spam. BlastKoala analysis
+	   is taking a long time to finish, usually one day more or less. So be patient! It is important also to 
+	   note that there is a restriction by BlastKoala of one job per email address. So if we want to run
+	   multiple jobs simultaneously we have to use many different emails!
+
+2) Rast http://rast.nmpdr.org/
+	a) We first create the genebank file from Anvio only Prokka gene calls and the contigs nucleotide fasta file.
+	b) We then upload the genbank file to http://rast.nmpdr.org/, but we are careful to choose instead of the Rasttk pipeline, the classic Rast pipeline which allows us to retain the genecalls, we have in the genbank file. We also unselect any other option, available by Rast, in order to have only the annotation done by Rast and nothing more!
+	c) When the Rast annotation job has finished, we download from their servers the gff format output and upload it on the server. 
+
+3) Panther http://www.pantherdb.org/
+	a) We first run interproscan with panther. 
+	b) We export the panther annotation from interproscan output file, in a format that can be uploaded to the 
+	   panther web server.
+	c) We upload the file to the panther web server, mark it as " PANTHER Generic Mapping" and run the 
+	   "Statistical overrepresentation test".
+	d) On the next page we click on the "Launch analysis" button
+	e) From the "Results" we click on the value which can be found on the row named "Mapped IDs" and the column 
+	   which has the same name file we uploaded i.e. There are two columns the first one is called "Reference List" 
+	   and the second one is has the same as the file we uploaded. So we have to click on value found on the first 
+	   row of the second column. This is a link which gets us to a new page.
+	f) From the new page we select from the dropdown menu "Send list to" the option "File". This will promt us to save a file with the
+	   filename "pantherGeneList.txt". Save the file, rename it, upload it to the bio server, and that's it. 
+	   In total on the panther web server we will spend some seconds to complete our job (depending how fast we click on the buttons!).
+
+4) PIRSF https://pir.georgetown.edu/pirwww/search/batch_sf.shtml
+	a) We first run interproscan with the PIRSF database (among others!).
+	b) We export the PIRSF IDs from the interproscan output file, copy the IDs to clipboard, paste them to the online web server and click submit.
+	c) From the new page that opens, we click on the "Save Result as: TABLE", and save the file as "${StrainX}_${Assembler}_PIRSF.tsv".
+	d) We upload the "${StrainX}_PIRSF.tsv" to the apropriate file on the server. The whole procedure, takes just a few seconds!
+
+5) Blast2Go 
+	Blast2Go is a special case because the CLI program is a commercial program, and only a reduced gui version of it is available for free. With this version of Blast2Go we will work here, unless we can find the commercial CLI program, somehow.
+	Before starting the Blast2Go analysis we have to have two files, the blastp xml search output of the amino acid sequences, and the corresponing interproscan xml output file. 
+	a) We start an ssh session with the -X command. Next we start a new job with the  srun.x11 command, launch Blast2Go_Launcher and upload the following files:
+		1) The blastp xml file
+		2) The interpro xml file
+	b) We start the mapping process.
+	c) When the mapping analysis finishes, we launch the annotation analysis. These two steps take a very long time to finish, so be patient and remember to save regularly in case something happens and the analysis comes to an unexpected stop!!!
+	d) When the annotation analysis is completed, we export the results as a table and save the output on the server.
+	e) We are ready to parse these results into Anvio!
+	
+	
+	

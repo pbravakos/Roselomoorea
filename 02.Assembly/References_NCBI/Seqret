@@ -1,0 +1,6 @@
+seqret -sequence BSGatlas_v1.1.fasta -feature -fformat gff -fopenfile BSGatlas_v1.1.gff -osformat genbank -auto
+
+seqret -sequence {genome file} -feature -fformat gff -fopenfile {gff file} -osformat genbank -osname_outseq {output prefix} -ofdirectory_outseq gbk_file -auto
+
+seqret -sequence BSGatlas_v1.1.fasta -feature -fformat gff -fopenfile BSGatlas_v1.1.gff -osformat genbank -osname_outseq BSGatlas -ofdirectory_outseq gbk_file -auto
+seqret -sequence BSGatlas_v1.1.fasta -feature -fformat gff -fopenfile BSGatlas_v1.1.gff -osformat genbank -osname_outseq BSGatlas_v1.1 -ofdirectory_outseq gbk_file -auto

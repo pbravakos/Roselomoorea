@@ -1,0 +1,2568 @@
+genecall_2797
+genecall_2798	K03100
+genecall_2799	K03556
+genecall_2800
+genecall_2801	K01999
+genecall_2802	K01995
+genecall_2803	K01996
+genecall_2804	K01997
+genecall_2805	K01998
+genecall_2806	K00648
+genecall_2807
+genecall_2808	K00059
+genecall_2809	K00626
+genecall_2810
+genecall_2811	K00666
+genecall_2812
+genecall_2813	K08224
+genecall_2814	K16899
+genecall_2815	K16898
+genecall_2816	K07451
+genecall_2817	K06304
+genecall_2818	K06303
+genecall_2819	K06302
+genecall_2820	K06301
+genecall_2821	K06300
+genecall_2822	K06299
+genecall_2823	K07148
+genecall_2824
+genecall_2825
+genecall_2826
+genecall_2827	K01953
+genecall_2828	K10209
+genecall_2829	K10027
+genecall_2830	K10208
+genecall_2831	K03320
+genecall_2832	K04751
+genecall_2833
+genecall_2834	K01208
+genecall_2835	K15770
+genecall_2836	K15771
+genecall_2837	K15772
+genecall_2838
+genecall_2839
+genecall_2840
+genecall_2841
+genecall_2842	K09767
+genecall_2843
+genecall_2844
+genecall_2845
+genecall_2846
+genecall_2847
+genecall_2848
+genecall_2849	K21064
+genecall_2850	K06889
+genecall_2851
+genecall_2852
+genecall_2853	K06153
+genecall_2854
+genecall_2855	K03695
+genecall_2856
+genecall_2857
+genecall_2858
+genecall_2859	K05519
+genecall_2860	K02254
+genecall_2861
+genecall_2862	K00648
+genecall_2863	K09458
+genecall_2864
+genecall_2865
+genecall_2866
+genecall_2867	K01867
+genecall_2868
+genecall_2869	K15580
+genecall_2870	K15581
+genecall_2871	K15582
+genecall_2872	K15583
+genecall_2873	K10823
+genecall_2874
+genecall_2875
+genecall_2876	K16509
+genecall_2877	K16511
+genecall_2878	K06131
+genecall_2879	K06198
+genecall_2880	K08602
+genecall_2881
+genecall_2882
+genecall_2883	K06886
+genecall_2884
+genecall_2885
+genecall_2886
+genecall_2887	K07816
+genecall_2888	K00858
+genecall_2889	K06180
+genecall_2890
+genecall_2891	K06213
+genecall_2892	K03455
+genecall_2893
+genecall_2894	K00208
+genecall_2895
+genecall_2896
+genecall_2897
+genecall_2898
+genecall_2899	K06405
+genecall_2900	K06406
+genecall_2901	K06407
+genecall_2902
+genecall_2903
+genecall_2904
+genecall_2905
+genecall_2906
+genecall_2907
+genecall_2908
+genecall_2909
+genecall_2910
+genecall_2911
+genecall_2912	K07080
+genecall_2913
+genecall_2914
+genecall_2915
+genecall_2916
+genecall_2917	K03704
+genecall_2918
+genecall_2919
+genecall_2920	K00033
+genecall_2921
+genecall_2922
+genecall_2923	K00525
+genecall_2924	K00526
+genecall_2925	K21802
+genecall_2926
+genecall_2927
+genecall_2928	K03704
+genecall_2929	K00453
+genecall_2930	K03790
+genecall_2931	K07058
+genecall_2932	K03305
+genecall_2933
+genecall_2934
+genecall_2935	K05362
+genecall_2936
+genecall_2937	K03317
+genecall_2938
+genecall_2939	K02837
+genecall_2940
+genecall_2941	K03315
+genecall_2942
+genecall_2943
+genecall_2944
+genecall_2945
+genecall_2946
+genecall_2947	K03093
+genecall_2948
+genecall_2949	K06421
+genecall_2950	K03498
+genecall_2951
+genecall_2952
+genecall_2953
+genecall_2954	K04034
+genecall_2955
+genecall_2956	K13533
+genecall_2957	K00567
+genecall_2958
+genecall_2959	K08963
+genecall_2960	K00899
+genecall_2961	K13566
+genecall_2962	K08969
+genecall_2963	K08965
+genecall_2964	K08966
+genecall_2965	K08964
+genecall_2966	K08967
+genecall_2967
+genecall_2968	K15973
+genecall_2969
+genecall_2970
+genecall_2971
+genecall_2972
+genecall_2973
+genecall_2974
+genecall_2975	K01449
+genecall_2976
+genecall_2977
+genecall_2978	K03924
+genecall_2979
+genecall_2980
+genecall_2981	K02068
+genecall_2982	K02069
+genecall_2983
+genecall_2984	K02784
+genecall_2985	K08483
+genecall_2986
+genecall_2987
+genecall_2988	K00841
+genecall_2989	K03284
+genecall_2990	K06920
+genecall_2991	K01737
+genecall_2992	K10026
+genecall_2993
+genecall_2994	K03415
+genecall_2995
+genecall_2996
+genecall_2997
+genecall_2998
+genecall_2999
+genecall_3000
+genecall_3001
+genecall_3002
+genecall_3003
+genecall_3004
+genecall_3005
+genecall_3006
+genecall_3007
+genecall_3008	K07090
+genecall_3009
+genecall_3010	K05822
+genecall_3011	K05823
+genecall_3012
+genecall_3013	K01990
+genecall_3014	K01992
+genecall_3015
+genecall_3016	K03924
+genecall_3017
+genecall_3018
+genecall_3019	K07114
+genecall_3020	K22044
+genecall_3021	K03386
+genecall_3022
+genecall_3023	K18889
+genecall_3024	K18890
+genecall_3025	K00425
+genecall_3026	K00426
+genecall_3027	K03499
+genecall_3028	K12574
+genecall_3029
+genecall_3030
+genecall_3031	K01462
+genecall_3032
+genecall_3033	K00161
+genecall_3034	K00162
+genecall_3035	K00627
+genecall_3036	K00382
+genecall_3037
+genecall_3038
+genecall_3039	K22278
+genecall_3040
+genecall_3041	K01585
+genecall_3042	K23948
+genecall_3043
+genecall_3044
+genecall_3045
+genecall_3046	K01092
+genecall_3047
+genecall_3048	K06207
+genecall_3049
+genecall_3050
+genecall_3051
+genecall_3052
+genecall_3053
+genecall_3054	K07175
+genecall_3055
+genecall_3056	K01425
+genecall_3057
+genecall_3058
+genecall_3059	K03588
+genecall_3060	K01958
+genecall_3061	K02259
+genecall_3062	K02257
+genecall_3063	K02275
+genecall_3064	K02274
+genecall_3065	K02276
+genecall_3066	K02277
+genecall_3067	K02862
+genecall_3068	K08976
+genecall_3069
+genecall_3070
+genecall_3071
+genecall_3072
+genecall_3073
+genecall_3074
+genecall_3075
+genecall_3076
+genecall_3077
+genecall_3078
+genecall_3079
+genecall_3080
+genecall_3081
+genecall_3082
+genecall_3083
+genecall_3084	K08316
+genecall_3085	K00954
+genecall_3086
+genecall_3087	K07001
+genecall_3088	K07177
+genecall_3089
+genecall_3090	K07040
+genecall_3091	K02911
+genecall_3092	K01715
+genecall_3093	K06314
+genecall_3094
+genecall_3095	K01961
+genecall_3096	K02160
+genecall_3097	K01604
+genecall_3098	K00077
+genecall_3099
+genecall_3100	K22136
+genecall_3101	K03925
+genecall_3102	K03438
+genecall_3103
+genecall_3104	K08724
+genecall_3105	K08384
+genecall_3106	K01928
+genecall_3107
+genecall_3108	K01000
+genecall_3109	K01925
+genecall_3110	K03588
+genecall_3111	K03589
+genecall_3112
+genecall_3113
+genecall_3114
+genecall_3115	K03590
+genecall_3116	K03531
+genecall_3117	K06383
+genecall_3118	K03091
+genecall_3119	K03091
+genecall_3120
+genecall_3121	K05810
+genecall_3122	K06997
+genecall_3123	K09772
+genecall_3124	K02221
+genecall_3125
+genecall_3126	K04074
+genecall_3127	K01870
+genecall_3128
+genecall_3129	K03101
+genecall_3130	K06180
+genecall_3131	K02825
+genecall_3132	K02824
+genecall_3133	K00609
+genecall_3134	K01465
+genecall_3135	K01956
+genecall_3136	K01955
+genecall_3137	K02823
+genecall_3138	K17828
+genecall_3139	K01591
+genecall_3140	K00762
+genecall_3141
+genecall_3142	K01537
+genecall_3143
+genecall_3144	K09777
+genecall_3145	K00942
+genecall_3146	K03060
+genecall_3147	K13038
+genecall_3148	K04066
+genecall_3149	K01462
+genecall_3150	K00604
+genecall_3151	K03500
+genecall_3152	K20074
+genecall_3153	K12132
+genecall_3154	K06949
+genecall_3155	K01783
+genecall_3156	K00949
+genecall_3157	K02902
+genecall_3158
+genecall_3159	K07030
+genecall_3160	K01752
+genecall_3161	K01752
+genecall_3162	K03655
+genecall_3163
+genecall_3164	K03621
+genecall_3165	K00645
+genecall_3166	K00059
+genecall_3167	K02078
+genecall_3168	K03685
+genecall_3169	K03529
+genecall_3170	K03110
+genecall_3171	K09787
+genecall_3172	K03106
+genecall_3173	K02959
+genecall_3174	K06960
+genecall_3175
+genecall_3176	K02860
+genecall_3177	K00554
+genecall_3178	K02884
+genecall_3179	K03100
+genecall_3180	K14540
+genecall_3181	K03470
+genecall_3182
+genecall_3183	K04061
+genecall_3184	K01903
+genecall_3185	K01902
+genecall_3186	K04096
+genecall_3187	K03168
+genecall_3188	K04094
+genecall_3189	K03733
+genecall_3190	K01419
+genecall_3191	K03667
+genecall_3192	K03706
+genecall_3193	K02387
+genecall_3194	K02388
+genecall_3195	K02408
+genecall_3196	K02409
+genecall_3197	K02410
+genecall_3198	K02411
+genecall_3199	K02412
+genecall_3200	K02413
+genecall_3201
+genecall_3202	K02414
+genecall_3203	K02389
+genecall_3204
+genecall_3205	K02390
+genecall_3206	K02385
+genecall_3207	K02415
+genecall_3208	K02416
+genecall_3209	K02417
+genecall_3210	K03413
+genecall_3211	K02418
+genecall_3212	K02419
+genecall_3213	K02420
+genecall_3214	K02421
+genecall_3215	K02401
+genecall_3216	K02400
+genecall_3217	K02404
+genecall_3218	K04562
+genecall_3219	K03412
+genecall_3220	K03407
+genecall_3221	K03408
+genecall_3222	K03410
+genecall_3223	K03411
+genecall_3224	K02405
+genecall_3225
+genecall_3226	K02967
+genecall_3227	K02357
+genecall_3228	K09903
+genecall_3229	K02838
+genecall_3230	K00806
+genecall_3231	K00981
+genecall_3232	K00099
+genecall_3233	K11749
+genecall_3234	K01881
+genecall_3235	K03763
+genecall_3236	K09748
+genecall_3237	K02600
+genecall_3238	K07742
+genecall_3239
+genecall_3240	K02519
+genecall_3241	K09764
+genecall_3242	K02834
+genecall_3243	K03177
+genecall_3244	K11753
+genecall_3245	K02956
+genecall_3246	K00962
+genecall_3247
+genecall_3248
+genecall_3249
+genecall_3250	K06410
+genecall_3251	K06411
+genecall_3252	K00133
+genecall_3253	K00928
+genecall_3254	K01714
+genecall_3255	K12574
+genecall_3256
+genecall_3257
+genecall_3258	K03466
+genecall_3259	K03710
+genecall_3260	K07335
+genecall_3261	K23537
+genecall_3262	K23535
+genecall_3263	K23536
+genecall_3264
+genecall_3265
+genecall_3266	K00059
+genecall_3267
+genecall_3268
+genecall_3269
+genecall_3270	K00995
+genecall_3271	K03742
+genecall_3272	K03553
+genecall_3273	K18682
+genecall_3274	K09769
+genecall_3275	K06416
+genecall_3276	K01273
+genecall_3277	K00174
+genecall_3278	K00175
+genecall_3279
+genecall_3280
+genecall_3281
+genecall_3282	K21140
+genecall_3283
+genecall_3284
+genecall_3285
+genecall_3286
+genecall_3287
+genecall_3288
+genecall_3289
+genecall_3290
+genecall_3291
+genecall_3292
+genecall_3293
+genecall_3294
+genecall_3295	K06168
+genecall_3296
+genecall_3297
+genecall_3298	K06328
+genecall_3299	K07483
+genecall_3300	K07483
+genecall_3301	K06408
+genecall_3302
+genecall_3303	K19225
+genecall_3304
+genecall_3305
+genecall_3306	K01934
+genecall_3307	K02913
+genecall_3308
+genecall_3309	K16881
+genecall_3310
+genecall_3311	K09942
+genecall_3312
+genecall_3313	K02039
+genecall_3314	K02036
+genecall_3315	K02038
+genecall_3316	K02037
+genecall_3317	K02040
+genecall_3318	K21465
+genecall_3319	K08222
+genecall_3320	K04564
+genecall_3321	K09793
+genecall_3322	K03324
+genecall_3323
+genecall_3324	K03406
+genecall_3325	K08221
+genecall_3326
+genecall_3327	K03526
+genecall_3328
+genecall_3329	K05967
+genecall_3330
+genecall_3331	K02076
+genecall_3332	K09816
+genecall_3333	K09817
+genecall_3334
+genecall_3335
+genecall_3336	K01151
+genecall_3337	K18692
+genecall_3338
+genecall_3339	K03527
+genecall_3340
+genecall_3341	K06967
+genecall_3342	K13300
+genecall_3343
+genecall_3344
+genecall_3345	K03086
+genecall_3346	K02316
+genecall_3347	K09773
+genecall_3348	K23774
+genecall_3349	K01880
+genecall_3350	K03584
+genecall_3351
+genecall_3352	K03595
+genecall_3353	K01489
+genecall_3354	K00887
+genecall_3355	K07042
+genecall_3356	K07037
+genecall_3357	K06217
+genecall_3358	K06438
+genecall_3359
+genecall_3360
+genecall_3361
+genecall_3362	K07403
+genecall_3363	K09117
+genecall_3364	K02970
+genecall_3365	K03324
+genecall_3366	K01619
+genecall_3367	K01187
+genecall_3368	K18707
+genecall_3369	K09761
+genecall_3370	K02687
+genecall_3371	K03686
+genecall_3372	K04043
+genecall_3373	K03687
+genecall_3374	K03705
+genecall_3375
+genecall_3376	K03596
+genecall_3377
+genecall_3378	K06385
+genecall_3379	K06012
+genecall_3380	K02968
+genecall_3381	K02340
+genecall_3382
+genecall_3383	K02238
+genecall_3384	K01493
+genecall_3385	K02237
+genecall_3386	K02239
+genecall_3387
+genecall_3388	K09710
+genecall_3389
+genecall_3390	K00969
+genecall_3391	K07574
+genecall_3392	K00014
+genecall_3393	K06948
+genecall_3394	K07015
+genecall_3395	K06371
+genecall_3396	K01613
+genecall_3397	K17103
+genecall_3398
+genecall_3399	K03091
+genecall_3400
+genecall_3401	K17217
+genecall_3402	K17216
+genecall_3403	K01243
+genecall_3404	K17462
+genecall_3405
+genecall_3406
+genecall_3407	K21468
+genecall_3408	K03624
+genecall_3409	K00876
+genecall_3410	K08303
+genecall_3411	K08303
+genecall_3412
+genecall_3413	K07082
+genecall_3414
+genecall_3415	K07447
+genecall_3416
+genecall_3417	K01872
+genecall_3418
+genecall_3419	K01012
+genecall_3420	K03523
+genecall_3421	K03581
+genecall_3422
+genecall_3423	K00566
+genecall_3424	K04487
+genecall_3425	K17472
+genecall_3426	K07478
+genecall_3427	K00686
+genecall_3428	K01992
+genecall_3429	K01990
+genecall_3430	K01990
+genecall_3431
+genecall_3432
+genecall_3433	K22132
+genecall_3434	K01876
+genecall_3435	K01892
+genecall_3436
+genecall_3437	K01448
+genecall_3438	K07560
+genecall_3439	K01139
+genecall_3440	K00759
+genecall_3441	K07462
+genecall_3442	K08992
+genecall_3443
+genecall_3444	K12257
+genecall_3445
+genecall_3446	K06409
+genecall_3447
+genecall_3448
+genecall_3449
+genecall_3450	K03210
+genecall_3451	K00773
+genecall_3452	K07568
+genecall_3453
+genecall_3454	K03551
+genecall_3455	K03550
+genecall_3456
+genecall_3457	K06318
+genecall_3458	K06345
+genecall_3459
+genecall_3460	K06370
+genecall_3461	K03517
+genecall_3462	K00767
+genecall_3463	K00278
+genecall_3464	K04487
+genecall_3465	K07105
+genecall_3466	K04518
+genecall_3467	K06209
+genecall_3468	K03979
+genecall_3469	K06375
+genecall_3470	K02899
+genecall_3471	K07584
+genecall_3472	K02888
+genecall_3473	K08301
+genecall_3474	K06402
+genecall_3475	K06401
+genecall_3476	K03609
+genecall_3477	K03610
+genecall_3478	K03571
+genecall_3479	K03570
+genecall_3480	K03569
+genecall_3481	K03630
+genecall_3482	K06287
+genecall_3483	K06380
+genecall_3484	K02650
+genecall_3485	K02664
+genecall_3486	K02663
+genecall_3487	K02662
+genecall_3488	K02236
+genecall_3489	K02650
+genecall_3490	K02653
+genecall_3491	K02669
+genecall_3492	K02652
+genecall_3493
+genecall_3494
+genecall_3495
+genecall_3496
+genecall_3497
+genecall_3498
+genecall_3499
+genecall_3500
+genecall_3501	K11754
+genecall_3502	K01873
+genecall_3503
+genecall_3504
+genecall_3505	K06417
+genecall_3506	K01845
+genecall_3507	K01698
+genecall_3508	K01719
+genecall_3509	K01749
+genecall_3510	K02497
+genecall_3511	K02492
+genecall_3512
+genecall_3513
+genecall_3514	K02029
+genecall_3515	K02030
+genecall_3516	K03978
+genecall_3517	K01338
+genecall_3518	K04076
+genecall_3519	K03544
+genecall_3520	K03545
+genecall_3521
+genecall_3522	K07095
+genecall_3523	K02428
+genecall_3524	K00989
+genecall_3525	K06298
+genecall_3526	K01776
+genecall_3527
+genecall_3528	K01994
+genecall_3529	K07107
+genecall_3530	K00240
+genecall_3531	K00239
+genecall_3532	K00241
+genecall_3533
+genecall_3534	K00928
+genecall_3535	K03703
+genecall_3536	K03671
+genecall_3537
+genecall_3538	K03522
+genecall_3539	K03521
+genecall_3540	K13767
+genecall_3541	K13770
+genecall_3542	K01897
+genecall_3543	K08989
+genecall_3544	K07456
+genecall_3545	K02347
+genecall_3546
+genecall_3547	K09888
+genecall_3548	K03471
+genecall_3549	K01890
+genecall_3550	K01889
+genecall_3551	K03437
+genecall_3552	K06426
+genecall_3553
+genecall_3554
+genecall_3555
+genecall_3556
+genecall_3557
+genecall_3558
+genecall_3559	K02887
+genecall_3560	K02916
+genecall_3561	K02520
+genecall_3562	K01868
+genecall_3563
+genecall_3564	K11144
+genecall_3565	K03346
+genecall_3566	K07738
+genecall_3567
+genecall_3568	K01611
+genecall_3569	K00134
+genecall_3570	K00859
+genecall_3571
+genecall_3572	K10563
+genecall_3573	K02335
+genecall_3574	K04087
+genecall_3575	K04088
+genecall_3576	K07636
+genecall_3577	K07658
+genecall_3578	K17865
+genecall_3579
+genecall_3580
+genecall_3581	K00024
+genecall_3582	K00031
+genecall_3583	K01647
+genecall_3584
+genecall_3585
+genecall_3586	K07113
+genecall_3587	K00873
+genecall_3588	K00850
+genecall_3589	K01962
+genecall_3590	K01963
+genecall_3591	K05799
+genecall_3592	K00027
+genecall_3593	K02337
+genecall_3594
+genecall_3595
+genecall_3596	K17910
+genecall_3597	K01259
+genecall_3598
+genecall_3599
+genecall_3600
+genecall_3601	K01489
+genecall_3602
+genecall_3603
+genecall_3604
+genecall_3605	K00344
+genecall_3606
+genecall_3607
+genecall_3608
+genecall_3609	K01992
+genecall_3610	K01990
+genecall_3611	K09017
+genecall_3612	K18554
+genecall_3613	K01091
+genecall_3614
+genecall_3615
+genecall_3616
+genecall_3617
+genecall_3618
+genecall_3619
+genecall_3620
+genecall_3621
+genecall_3622
+genecall_3623
+genecall_3624
+genecall_3625
+genecall_3626
+genecall_3627
+genecall_3628
+genecall_3629
+genecall_3630	K01126
+genecall_3631
+genecall_3632	K22579
+genecall_3633
+genecall_3634
+genecall_3635
+genecall_3636
+genecall_3637	K01000
+genecall_3638	K01259
+genecall_3639
+genecall_3640
+genecall_3641
+genecall_3642
+genecall_3643
+genecall_3644
+genecall_3645
+genecall_3646
+genecall_3647	K03088
+genecall_3648
+genecall_3649
+genecall_3650
+genecall_3651	K07032
+genecall_3652
+genecall_3653
+genecall_3654
+genecall_3655	K07727
+genecall_3656
+genecall_3657	K03790
+genecall_3658
+genecall_3659
+genecall_3660	K07506
+genecall_3661
+genecall_3662	K01992
+genecall_3663	K01990
+genecall_3664
+genecall_3665	K10947
+genecall_3666
+genecall_3667	K01992
+genecall_3668	K01990
+genecall_3669
+genecall_3670
+genecall_3671
+genecall_3672	K00657
+genecall_3673
+genecall_3674
+genecall_3675
+genecall_3676
+genecall_3677
+genecall_3678
+genecall_3679	K04567
+genecall_3680
+genecall_3681	K00059
+genecall_3682
+genecall_3683
+genecall_3684
+genecall_3685	K00354
+genecall_3686
+genecall_3687
+genecall_3688
+genecall_3689
+genecall_3690
+genecall_3691
+genecall_3692	K03719
+genecall_3693
+genecall_3694
+genecall_3695
+genecall_3696
+genecall_3697
+genecall_3698
+genecall_3699
+genecall_3700	K02003
+genecall_3701	K02004
+genecall_3702
+genecall_3703	K22130
+genecall_3704	K21948
+genecall_3705
+genecall_3706
+genecall_3707	K16787
+genecall_3708	K16786
+genecall_3709	K16785
+genecall_3710	K16923
+genecall_3711	K12960
+genecall_3712
+genecall_3713	K06971
+genecall_3714
+genecall_3715
+genecall_3716	K02529
+genecall_3717
+genecall_3718
+genecall_3719
+genecall_3720
+genecall_3721
+genecall_3722
+genecall_3723
+genecall_3724
+genecall_3725	K00657
+genecall_3726
+genecall_3727
+genecall_3728	K09136
+genecall_3729
+genecall_3730
+genecall_3731	K06881
+genecall_3732
+genecall_3733
+genecall_3734
+genecall_3735
+genecall_3736
+genecall_3737	K08093
+genecall_3738	K08094
+genecall_3739	K00259
+genecall_3740	K10974
+genecall_3741	K07497
+genecall_3742	K07483
+genecall_3743
+genecall_3744
+genecall_3745	K07448
+genecall_3746
+genecall_3747
+genecall_3748	K10439
+genecall_3749	K10440
+genecall_3750	K10441
+genecall_3751	K06726
+genecall_3752	K00852
+genecall_3753	K02529
+genecall_3754	K01243
+genecall_3755
+genecall_3756	K02073
+genecall_3757	K02072
+genecall_3758	K02071
+genecall_3759	K02443
+genecall_3760	K00657
+genecall_3761	K07507
+genecall_3762
+genecall_3763
+genecall_3764
+genecall_3765	K06889
+genecall_3766	K17836
+genecall_3767
+genecall_3768
+genecall_3769
+genecall_3770
+genecall_3771
+genecall_3772	K23253
+genecall_3773	K00294
+genecall_3774	K00318
+genecall_3775	K02101
+genecall_3776	K00784
+genecall_3777	K05815
+genecall_3778	K05814
+genecall_3779	K05813
+genecall_3780	K06196
+genecall_3781
+genecall_3782	K06295
+genecall_3783
+genecall_3784	K07507
+genecall_3785
+genecall_3786
+genecall_3787
+genecall_3788	K01870
+genecall_3789	K03719
+genecall_3790
+genecall_3791
+genecall_3792
+genecall_3793
+genecall_3794
+genecall_3795
+genecall_3796
+genecall_3797
+genecall_3798	K00067
+genecall_3799
+genecall_3800
+genecall_3801	K05937
+genecall_3802
+genecall_3803	K01421
+genecall_3804	K07003
+genecall_3805
+genecall_3806	K01479
+genecall_3807	K01468
+genecall_3808	K01712
+genecall_3809	K01745
+genecall_3810	K05020
+genecall_3811	K07720
+genecall_3812
+genecall_3813
+genecall_3814	K01755
+genecall_3815	K01940
+genecall_3816
+genecall_3817
+genecall_3818	K00925
+genecall_3819	K00571
+genecall_3820	K11065
+genecall_3821
+genecall_3822
+genecall_3823
+genecall_3824
+genecall_3825	K04773
+genecall_3826	K00858
+genecall_3827	K05786
+genecall_3828
+genecall_3829	K01895
+genecall_3830	K06419
+genecall_3831	K03151
+genecall_3832	K04487
+genecall_3833	K03311
+genecall_3834	K06286
+genecall_3835	K04486
+genecall_3836
+genecall_3837	K08968
+genecall_3838	K01761
+genecall_3839
+genecall_3840
+genecall_3841	K02986
+genecall_3842	K01866
+genecall_3843	K03693
+genecall_3844	K01895
+genecall_3845	K04766
+genecall_3846	K04767
+genecall_3847	K04768
+genecall_3848	K02557
+genecall_3849	K02556
+genecall_3850	K02529
+genecall_3851	K13853
+genecall_3852
+genecall_3853
+genecall_3854
+genecall_3855
+genecall_3856
+genecall_3857	K19689
+genecall_3858	K01924
+genecall_3859
+genecall_3860	K00763
+genecall_3861	K03466
+genecall_3862	K06878
+genecall_3863
+genecall_3864
+genecall_3865	K07035
+genecall_3866
+genecall_3867
+genecall_3868
+genecall_3869	K03305
+genecall_3870
+genecall_3871	K01529
+genecall_3872
+genecall_3873
+genecall_3874
+genecall_3875	K03439
+genecall_3876
+genecall_3877
+genecall_3878	K01200
+genecall_3879
+genecall_3880
+genecall_3881	K01975
+genecall_3882	K01738
+genecall_3883
+genecall_3884	K00824
+genecall_3885	K01439
+genecall_3886
+genecall_3887	K06183
+genecall_3888
+genecall_3889
+genecall_3890
+genecall_3891
+genecall_3892
+genecall_3893	K01869
+genecall_3894	K00019
+genecall_3895
+genecall_3896
+genecall_3897
+genecall_3898
+genecall_3899
+genecall_3900
+genecall_3901
+genecall_3902
+genecall_3903	K07139
+genecall_3904
+genecall_3905
+genecall_3906	K09607
+genecall_3907	K16188
+genecall_3908	K01048
+genecall_3909
+genecall_3910	K00789
+genecall_3911	K01610
+genecall_3912
+genecall_3913	K06976
+genecall_3914	K03523
+genecall_3915
+genecall_3916	K00549
+genecall_3917
+genecall_3918	K03147
+genecall_3919	K06201
+genecall_3920	K25034
+genecall_3921	K00798
+genecall_3922
+genecall_3923
+genecall_3924
+genecall_3925	K02051
+genecall_3926	K02049
+genecall_3927	K02050
+genecall_3928	K03574
+genecall_3929
+genecall_3930
+genecall_3931
+genecall_3932
+genecall_3933
+genecall_3934	K07173
+genecall_3935	K08998
+genecall_3936	K09815
+genecall_3937	K00425
+genecall_3938	K00426
+genecall_3939	K00059
+genecall_3940
+genecall_3941
+genecall_3942	K02549
+genecall_3943	K01911
+genecall_3944	K01661
+genecall_3945	K08680
+genecall_3946	K02551
+genecall_3947	K02552
+genecall_3948	K02548
+genecall_3949
+genecall_3950	K00688
+genecall_3951	K00703
+genecall_3952	K00975
+genecall_3953	K00975
+genecall_3954	K00700
+genecall_3955
+genecall_3956	K03169
+genecall_3957	K06867
+genecall_3958
+genecall_3959	K01431
+genecall_3960	K17722
+genecall_3961	K17723
+genecall_3962	K01464
+genecall_3963	K03457
+genecall_3964
+genecall_3965
+genecall_3966	K09684
+genecall_3967	K00140
+genecall_3968	K03851
+genecall_3969
+genecall_3970
+genecall_3971
+genecall_3972
+genecall_3973	K03555
+genecall_3974	K03572
+genecall_3975
+genecall_3976
+genecall_3977
+genecall_3978	K01434
+genecall_3979	K00791
+genecall_3980	K03666
+genecall_3981	K06413
+genecall_3982
+genecall_3983	K03665
+genecall_3984
+genecall_3985	K03713
+genecall_3986	K01915
+genecall_3987
+genecall_3988	K01356
+genecall_3989
+genecall_3990
+genecall_3991
+genecall_3992	K00615
+genecall_3993
+genecall_3994	K09976
+genecall_3995
+genecall_3996	K18889
+genecall_3997	K18890
+genecall_3998
+genecall_3999	K06196
+genecall_4000	K03413
+genecall_4001
+genecall_4002
+genecall_4003
+genecall_4004	K07698
+genecall_4005
+genecall_4006
+genecall_4007	K03547
+genecall_4008	K03546
+genecall_4009	K06296
+genecall_4010	K06295
+genecall_4011	K06297
+genecall_4012
+genecall_4013	K09680
+genecall_4014	K07152
+genecall_4015	K03833
+genecall_4016	K03574
+genecall_4017
+genecall_4018	K06131
+genecall_4019
+genecall_4020	K01091
+genecall_4021
+genecall_4022	K07038
+genecall_4023	K01867
+genecall_4024	K01739
+genecall_4025	K01760
+genecall_4026	K24042
+genecall_4027	K00548
+genecall_4028
+genecall_4029
+genecall_4030	K17763
+genecall_4031	K15975
+genecall_4032	K06999
+genecall_4033
+genecall_4034	K10778
+genecall_4035
+genecall_4036
+genecall_4037	K16639
+genecall_4038
+genecall_4039
+genecall_4040
+genecall_4041
+genecall_4042
+genecall_4043
+genecall_4044
+genecall_4045	K08591
+genecall_4046
+genecall_4047	K19005
+genecall_4048
+genecall_4049	K07697
+genecall_4050
+genecall_4051
+genecall_4052	K06153
+genecall_4053	K01868
+genecall_4054
+genecall_4055	K09903
+genecall_4056	K03789
+genecall_4057
+genecall_4058	K01724
+genecall_4059	K00500
+genecall_4060
+genecall_4061	K09928
+genecall_4062	K17103
+genecall_4063	K07240
+genecall_4064	K10947
+genecall_4065	K00254
+genecall_4066
+genecall_4067
+genecall_4068
+genecall_4069
+genecall_4070	K03321
+genecall_4071	K03892
+genecall_4072	K03893
+genecall_4073	K03741
+genecall_4074
+genecall_4075	K01551
+genecall_4076
+genecall_4077	K13628
+genecall_4078	K01400
+genecall_4079	K08651
+genecall_4080	K17763
+genecall_4081
+genecall_4082	K03817
+genecall_4083
+genecall_4084
+genecall_4085	K06941
+genecall_4086
+genecall_4087
+genecall_4088	K07137
+genecall_4089
+genecall_4090
+genecall_4091
+genecall_4092
+genecall_4093
+genecall_4094
+genecall_4095
+genecall_4096
+genecall_4097	K12574
+genecall_4098
+genecall_4099	K01866
+genecall_4100	K03892
+genecall_4101	K07089
+genecall_4102
+genecall_4103	K17763
+genecall_4104
+genecall_4105
+genecall_4106	K07034
+genecall_4107
+genecall_4108
+genecall_4109	K09017
+genecall_4110	K01990
+genecall_4111	K01992
+genecall_4112	K01992
+genecall_4113
+genecall_4114	K18926
+genecall_4115
+genecall_4116
+genecall_4117	K20276
+genecall_4118
+genecall_4119
+genecall_4120
+genecall_4121	K05846
+genecall_4122	K05847
+genecall_4123	K05846
+genecall_4124	K05845
+genecall_4125
+genecall_4126	K00661
+genecall_4127
+genecall_4128
+genecall_4129	K01448
+genecall_4130
+genecall_4131
+genecall_4132
+genecall_4133	K00274
+genecall_4134
+genecall_4135	K06385
+genecall_4136
+genecall_4137
+genecall_4138	K00231
+genecall_4139	K01784
+genecall_4140
+genecall_4141
+genecall_4142	K17810
+genecall_4143
+genecall_4144
+genecall_4145
+genecall_4146
+genecall_4147
+genecall_4148
+genecall_4149
+genecall_4150
+genecall_4151
+genecall_4152	K07029
+genecall_4153
+genecall_4154
+genecall_4155
+genecall_4156
+genecall_4157
+genecall_4158
+genecall_4159	K19242
+genecall_4160	K01647
+genecall_4161	K01759
+genecall_4162
+genecall_4163
+genecall_4164
+genecall_4165
+genecall_4166
+genecall_4167	K01990
+genecall_4168	K01992
+genecall_4169	K00657
+genecall_4170
+genecall_4171
+genecall_4172
+genecall_4173
+genecall_4174	K01286
+genecall_4175
+genecall_4176	K03574
+genecall_4177	K09984
+genecall_4178	K07025
+genecall_4179
+genecall_4180
+genecall_4181
+genecall_4182
+genecall_4183	K00459
+genecall_4184
+genecall_4185
+genecall_4186
+genecall_4187
+genecall_4188
+genecall_4189
+genecall_4190	K15640
+genecall_4191
+genecall_4192
+genecall_4193	K16203
+genecall_4194	K16200
+genecall_4195	K16201
+genecall_4196	K16202
+genecall_4197	K16199
+genecall_4198	K01297
+genecall_4199	K19802
+genecall_4200	K20742
+genecall_4201
+genecall_4202	K17836
+genecall_4203	K17763
+genecall_4204
+genecall_4205
+genecall_4206	K21600
+genecall_4207	K07213
+genecall_4208	K17686
+genecall_4209
+genecall_4210
+genecall_4211
+genecall_4212	K03116
+genecall_4213
+genecall_4214
+genecall_4215	K00364
+genecall_4216
+genecall_4217
+genecall_4218	K20480
+genecall_4219
+genecall_4220	K01239
+genecall_4221
+genecall_4222	K00249
+genecall_4223
+genecall_4224
+genecall_4225
+genecall_4226
+genecall_4227
+genecall_4228
+genecall_4229
+genecall_4230
+genecall_4231
+genecall_4232
+genecall_4233	K06377
+genecall_4234
+genecall_4235
+genecall_4236
+genecall_4237	K01118
+genecall_4238
+genecall_4239
+genecall_4240
+genecall_4241
+genecall_4242
+genecall_4243	K07025
+genecall_4244
+genecall_4245	K06377
+genecall_4246	K21465
+genecall_4247
+genecall_4248
+genecall_4249	K11923
+genecall_4250	K03699
+genecall_4251
+genecall_4252	K07117
+genecall_4253	K07258
+genecall_4254
+genecall_4255
+genecall_4256
+genecall_4257
+genecall_4258	K01318
+genecall_4259
+genecall_4260	K02033
+genecall_4261	K02034
+genecall_4262	K01297
+genecall_4263
+genecall_4264	K01259
+genecall_4265	K03817
+genecall_4266
+genecall_4267
+genecall_4268
+genecall_4269	K02503
+genecall_4270	K19689
+genecall_4271
+genecall_4272
+genecall_4273	K02443
+genecall_4274	K02440
+genecall_4275	K00864
+genecall_4276	K00111
+genecall_4277
+genecall_4278
+genecall_4279
+genecall_4280
+genecall_4281	K01271
+genecall_4282
+genecall_4283	K03169
+genecall_4284
+genecall_4285	K06518
+genecall_4286
+genecall_4287	K01265
+genecall_4288	K06595
+genecall_4289
+genecall_4290
+genecall_4291
+genecall_4292	K05020
+genecall_4293
+genecall_4294	K21472
+genecall_4295
+genecall_4296	K01008
+genecall_4297
+genecall_4298	K01042
+genecall_4299	K06433
+genecall_4300
+genecall_4301	K06432
+genecall_4302	K01681
+genecall_4303
+genecall_4304
+genecall_4305	K06431
+genecall_4306	K06434
+genecall_4307	K07107
+genecall_4308
+genecall_4309
+genecall_4310
+genecall_4311
+genecall_4312	K08591
+genecall_4313
+genecall_4314	K05847
+genecall_4315	K05846
+genecall_4316	K05845
+genecall_4317	K06929
+genecall_4318	K02622
+genecall_4319	K02621
+genecall_4320	K03310
+genecall_4321
+genecall_4322
+genecall_4323
+genecall_4324
+genecall_4325
+genecall_4326	K03701
+genecall_4327
+genecall_4328
+genecall_4329
+genecall_4330
+genecall_4331
+genecall_4332	K01271
+genecall_4333
+genecall_4334	K04023
+genecall_4335	K02549
+genecall_4336
+genecall_4337	K14665
+genecall_4338
+genecall_4339
+genecall_4340
+genecall_4341	K01449
+genecall_4342
+genecall_4343	K16169
+genecall_4344	K03816
+genecall_4345
+genecall_4346	K24866
+genecall_4347	K03794
+genecall_4348	K02303
+genecall_4349
+genecall_4350	K00366
+genecall_4351	K00860
+genecall_4352	K00958
+genecall_4353	K16331
+genecall_4354	K00390
+genecall_4355
+genecall_4356
+genecall_4357
+genecall_4358	K00059
+genecall_4359	K00249
+genecall_4360	K00344
+genecall_4361	K15866
+genecall_4362
+genecall_4363	K07107
+genecall_4364
+genecall_4365	K01897
+genecall_4366
+genecall_4367	K00249
+genecall_4368
+genecall_4369	K06956
+genecall_4370	K00788
+genecall_4371	K00941
+genecall_4372	K03148
+genecall_4373	K03149
+genecall_4374	K03154
+genecall_4375	K03153
+genecall_4376	K10810
+genecall_4377	K16785
+genecall_4378	K01552
+genecall_4379	K16925
+genecall_4380	K03707
+genecall_4381	K07693
+genecall_4382	K07778
+genecall_4383
+genecall_4384
+genecall_4385
+genecall_4386
+genecall_4387	K00981
+genecall_4388
+genecall_4389
+genecall_4390	K01142
+genecall_4391	K05592
+genecall_4392
+genecall_4393
+genecall_4394	K01611
+genecall_4395
+genecall_4396
+genecall_4397	K17675
+genecall_4398
+genecall_4399	K07025
+genecall_4400
+genecall_4401	K08966
+genecall_4402	K03768
+genecall_4403
+genecall_4404	K05520
+genecall_4405
+genecall_4406	K24119
+genecall_4407	K00020
+genecall_4408
+genecall_4409	K00389
+genecall_4410
+genecall_4411
+genecall_4412
+genecall_4413
+genecall_4414
+genecall_4415
+genecall_4416
+genecall_4417	K07090
+genecall_4418
+genecall_4419
+genecall_4420
+genecall_4421	K04085
+genecall_4422
+genecall_4423
+genecall_4424	K01551
+genecall_4425
+genecall_4426	K06200
+genecall_4427	K06377
+genecall_4428
+genecall_4429	K01620
+genecall_4430	K20480
+genecall_4431
+genecall_4432	K19689
+genecall_4433
+genecall_4434	K06969
+genecall_4435	K03273
+genecall_4436	K07182
+genecall_4437	K02342
+genecall_4438	K00147
+genecall_4439	K00931
+genecall_4440	K00286
+genecall_4441	K01005
+genecall_4442
+genecall_4443
+genecall_4444	K00798
+genecall_4445	K02231
+genecall_4446	K02226
+genecall_4447	K02233
+genecall_4448	K02231
+genecall_4449	K25028
+genecall_4450	K25027
+genecall_4451	K25034
+genecall_4452	K07304
+genecall_4453
+genecall_4454	K10210
+genecall_4455	K10211
+genecall_4456	K10212
+genecall_4457
+genecall_4458
+genecall_4459	K00243
+genecall_4460	K06901
+genecall_4461	K08223
+genecall_4462
+genecall_4463	K07238
+genecall_4464	K07456
+genecall_4465
+genecall_4466
+genecall_4467
+genecall_4468
+genecall_4469	K03654
+genecall_4470
+genecall_4471
+genecall_4472
+genecall_4473	K06295
+genecall_4474
+genecall_4475	K06308
+genecall_4476
+genecall_4477
+genecall_4478	K06199
+genecall_4479	K06199
+genecall_4480
+genecall_4481	K03217
+genecall_4482	K07258
+genecall_4483
+genecall_4484
+genecall_4485	K03316
+genecall_4486
+genecall_4487	K04748
+genecall_4488	K15520
+genecall_4489
+genecall_4490
+genecall_4491
+genecall_4492
+genecall_4493
+genecall_4494	K00666
+genecall_4495
+genecall_4496
+genecall_4497	K00658
+genecall_4498	K00164
+genecall_4499
+genecall_4500	K18940
+genecall_4501
+genecall_4502	K08221
+genecall_4503
+genecall_4504
+genecall_4505	K07160
+genecall_4506
+genecall_4507
+genecall_4508	K15640
+genecall_4509	K17763
+genecall_4510
+genecall_4511
+genecall_4512
+genecall_4513
+genecall_4514
+genecall_4515
+genecall_4516
+genecall_4517	K04794
+genecall_4518
+genecall_4519
+genecall_4520	K11741
+genecall_4521	K11741
+genecall_4522
+genecall_4523
+genecall_4524	K06295
+genecall_4525	K07074
+genecall_4526
+genecall_4527
+genecall_4528
+genecall_4529	K05995
+genecall_4530	K05020
+genecall_4531
+genecall_4532
+genecall_4533	K03704
+genecall_4534
+genecall_4535	K03282
+genecall_4536
+genecall_4537
+genecall_4538
+genecall_4539	K17879
+genecall_4540
+genecall_4541
+genecall_4542
+genecall_4543	K07095
+genecall_4544	K01874
+genecall_4545
+genecall_4546
+genecall_4547	K01297
+genecall_4548
+genecall_4549	K01695
+genecall_4550	K01696
+genecall_4551	K01817
+genecall_4552	K01609
+genecall_4553	K00766
+genecall_4554	K01658
+genecall_4555	K01657
+genecall_4556	K06976
+genecall_4557
+genecall_4558
+genecall_4559
+genecall_4560
+genecall_4561	K21493
+genecall_4562
+genecall_4563
+genecall_4564
+genecall_4565
+genecall_4566	K03486
+genecall_4567
+genecall_4568	K06336
+genecall_4569	K13280
+genecall_4570	K09607
+genecall_4571	K07692
+genecall_4572	K07777
+genecall_4573
+genecall_4574	K01005
+genecall_4575	K02851
+genecall_4576
+genecall_4577	K05946
+genecall_4578	K18814
+genecall_4579	K03980
+genecall_4580	K16150
+genecall_4581	K00057
+genecall_4582	K19005
+genecall_4583	K23989
+genecall_4584
+genecall_4585	K21285
+genecall_4586	K00980
+genecall_4587
+genecall_4588
+genecall_4589	K09809
+genecall_4590	K09809
+genecall_4591	K09692
+genecall_4592	K09693
+genecall_4593	K19224
+genecall_4594	K13274
+genecall_4595
+genecall_4596
+genecall_4597
+genecall_4598	K01479
+genecall_4599	K01468
+genecall_4600	K01712
+genecall_4601	K01745
+genecall_4602	K09683
+genecall_4603
+genecall_4604	K07491
+genecall_4605
+genecall_4606
+genecall_4607
+genecall_4608	K02005
+genecall_4609	K01077
+genecall_4610
+genecall_4611
+genecall_4612
+genecall_4613
+genecall_4614	K03111
+genecall_4615
+genecall_4616	K19449
+genecall_4617
+genecall_4618	K19449
+genecall_4619	K07284
+genecall_4620
+genecall_4621	K02372
+genecall_4622
+genecall_4623	K02392
+genecall_4624	K02391
+genecall_4625	K03569
+genecall_4626	K06283
+genecall_4627	K02342
+genecall_4628	K07182
+genecall_4629	K14393
+genecall_4630
+genecall_4631
+genecall_4632	K06386
+genecall_4633
+genecall_4634	K06381
+genecall_4635	K00790
+genecall_4636
+genecall_4637
+genecall_4638	K02114
+genecall_4639	K02112
+genecall_4640	K02115
+genecall_4641	K02111
+genecall_4642	K02113
+genecall_4643	K02109
+genecall_4644	K02110
+genecall_4645	K02108
+genecall_4646	K02116
+genecall_4647	K02116
+genecall_4648	K01791
+genecall_4649	K00761
+genecall_4650	K00600
+genecall_4651
+genecall_4652	K01808
+genecall_4653	K03406
+genecall_4654	K20201
+genecall_4655	K23242
+genecall_4656	K07566
+genecall_4657
+genecall_4658	K06387
+genecall_4659	K02493
+genecall_4660	K02835
+genecall_4661
+genecall_4662	K00857
+genecall_4663	K02909
+genecall_4664	K03628
+genecall_4665	K02446
+genecall_4666	K00790
+genecall_4667	K00616
+genecall_4668	K01624
+genecall_4669	K02490
+genecall_4670
+genecall_4671	K02057
+genecall_4672	K02056
+genecall_4673	K02058
+genecall_4674	K01937
+genecall_4675	K03048
+genecall_4676	K11942
+genecall_4677
+genecall_4678	K00248
+genecall_4679	K18244
+genecall_4680	K00074
+genecall_4681	K00626
+genecall_4682
+genecall_4683	K06131
+genecall_4684	K13281
+genecall_4685
+genecall_4686	K01887
+genecall_4687
+genecall_4688	K01480
+genecall_4689	K00797
+genecall_4690	K21464
+genecall_4691
+genecall_4692
+genecall_4693	K01821
+genecall_4694
+genecall_4695
+genecall_4696	K09388
+genecall_4697	K06885
+genecall_4698
+genecall_4699	K06314
+genecall_4700	K16869
+genecall_4701	K00625
+genecall_4702	K00435
+genecall_4703	K06305
+genecall_4704
+genecall_4705
+genecall_4706	K03648
+genecall_4707
+genecall_4708
+genecall_4709	K00868
+genecall_4710
+genecall_4711	K22135
+genecall_4712	K01990
+genecall_4713	K01992
+genecall_4714
+genecall_4715
+genecall_4716
+genecall_4717
+genecall_4718
+genecall_4719	K08640
+genecall_4720	K01448
+genecall_4721
+genecall_4722	K01239
+genecall_4723
+genecall_4724
+genecall_4725
+genecall_4726	K05020
+genecall_4727	K02106
+genecall_4728	K06371
+genecall_4729
+genecall_4730	K02491
+genecall_4731
+genecall_4732
+genecall_4733	K00639
+genecall_4734
+genecall_4735	K03303
+genecall_4736	K14155
+genecall_4737
+genecall_4738	K07149
+genecall_4739	K01759
+genecall_4740	K07568
+genecall_4741
+genecall_4742	K01491
+genecall_4743
+genecall_4744
+genecall_4745
+genecall_4746	K12267
+genecall_4747
+genecall_4748	K01560
+genecall_4749	K08168
+genecall_4750
+genecall_4751
+genecall_4752	K02647
+genecall_4753	K00865
+genecall_4754	K03299
+genecall_4755
+genecall_4756
+genecall_4757
+genecall_4758
+genecall_4759
+genecall_4760
+genecall_4761
+genecall_4762
+genecall_4763
+genecall_4764
+genecall_4765	K23262
+genecall_4766
+genecall_4767
+genecall_4768	K23262
+genecall_4769
+genecall_4770	K18640
+genecall_4771
+genecall_4772
+genecall_4773
+genecall_4774	K03466
+genecall_4775
+genecall_4776
+genecall_4777
+genecall_4778
+genecall_4779	K11630
+genecall_4780	K11629
+genecall_4781	K11631
+genecall_4782	K11632
+genecall_4783
+genecall_4784
+genecall_4785
+genecall_4786
+genecall_4787
+genecall_4788	K21493
+genecall_4789
+genecall_4790
+genecall_4791	K09167
+genecall_4792	K08981
+genecall_4793
+genecall_4794
+genecall_4795	K00116
+genecall_4796
+genecall_4797
+genecall_4798
+genecall_4799	K00783
+genecall_4800
+genecall_4801	K04771
+genecall_4802
+genecall_4803
+genecall_4804
+genecall_4805	K07652
+genecall_4806	K07668
+genecall_4807
+genecall_4808
+genecall_4809
+genecall_4810	K08989
+genecall_4811
+genecall_4812
+genecall_4813
+genecall_4814	K10716
+genecall_4815	K01939
+genecall_4816	K06147
+genecall_4817	K02314
+genecall_4818	K02939
+genecall_4819	K22927
+genecall_4820
+genecall_4821	K03406
+genecall_4822	K02963
+genecall_4823	K03111
+genecall_4824	K02990
+genecall_4825	K06942
+genecall_4826
+genecall_4827	K22044
+genecall_4828
+genecall_4829	K07150
+genecall_4830	K03497
+genecall_4831	K03496
+genecall_4832	K03497
+genecall_4833	K03501
+genecall_4834	K03495
+genecall_4835	K03650
+genecall_4836	K06346
+genecall_4837	K03217
+genecall_4838	K03536
+genecall_4839	K02914
+genecall_4840	K02313
+genecall_4841	K02338
+genecall_4842	K14761
+genecall_4843	K03629
+genecall_4844	K24648
+genecall_4845	K02470
+genecall_4846
+genecall_4847	K02469
+genecall_4848
+genecall_4849
+genecall_4850
+genecall_4851
+genecall_4852	K01200
+genecall_4853
+genecall_4854
+genecall_4855
+genecall_4856
+genecall_4857
+genecall_4858
+genecall_4859
+genecall_4860
+genecall_4861
+genecall_4862
+genecall_4863
+genecall_4864
+genecall_4865
+genecall_4866
+genecall_4867
+genecall_4868
+genecall_4869
+genecall_4870
+genecall_4871
+genecall_4872	K01443
+genecall_4873	K25026
+genecall_4874	K00917
+genecall_4875	K08302
+genecall_4876	K02082
+genecall_4877	K24967
+genecall_4878
+genecall_4879	K02026
+genecall_4880	K02025
+genecall_4881	K02027
+genecall_4882	K11936
+genecall_4883
+genecall_4884
+genecall_4885
+genecall_4886
+genecall_4887	K25026
+genecall_4888	K25026
+genecall_4889
+genecall_4890	K15524
+genecall_4891	K17246
+genecall_4892	K17245
+genecall_4893	K25026
+genecall_4894
+genecall_4895	K01788
+genecall_4896	K17244
+genecall_4897
+genecall_4898	K00140
+genecall_4899	K03338
+genecall_4900	K03337
+genecall_4901	K03335
+genecall_4902	K03336
+genecall_4903	K00010
+genecall_4904
+genecall_4905
+genecall_4906
+genecall_4907
+genecall_4908	K02026
+genecall_4909	K02025
+genecall_4910	K02027
+genecall_4911
+genecall_4912
+genecall_4913	K00847
+genecall_4914	K02770
+genecall_4915	K02538
+genecall_4916	K00865
+genecall_4917	K22597
+genecall_4918	K15524
+genecall_4919	K02770
+genecall_4920
+genecall_4921	K00847
+genecall_4922	K17318
+genecall_4923	K17320
+genecall_4924	K17319
+genecall_4925	K07720
+genecall_4926	K07718
+genecall_4927	K01191
+genecall_4928	K09704
+genecall_4929	K01191
+genecall_4930
+genecall_4931
+genecall_4932	K01223
+genecall_4933	K01809
+genecall_4934
+genecall_4935
+genecall_4936
+genecall_4937
+genecall_4938	K03315
+genecall_4939	K01361
+genecall_4940	K07491
+genecall_4941
+genecall_4942
+genecall_4943
+genecall_4944
+genecall_4945
+genecall_4946
+genecall_4947
+genecall_4948
+genecall_4949
+genecall_4950	K00433
+genecall_4951
+genecall_4952
+genecall_4953
+genecall_4954
+genecall_4955
+genecall_4956	K21463
+genecall_4957
+genecall_4958
+genecall_4959
+genecall_4960
+genecall_4961	K24951
+genecall_4962	K20344
+genecall_4963
+genecall_4964
+genecall_4965
+genecall_4966	K01990
+genecall_4967	K01992
+genecall_4968
+genecall_4969
+genecall_4970	K21395
+genecall_4971
+genecall_4972
+genecall_4973	K00065
+genecall_4974	K08679
+genecall_4975	K00012
+genecall_4976
+genecall_4977
+genecall_4978
+genecall_4979
+genecall_4980
+genecall_4981
+genecall_4982
+genecall_4983
+genecall_4984
+genecall_4985	K00657
+genecall_4986
+genecall_4987
+genecall_4988	K00963
+genecall_4989
+genecall_4990	K01104
+genecall_4991
+genecall_4992
+genecall_4993
+genecall_4994
+genecall_4995
+genecall_4996	K01005
+genecall_4997
+genecall_4998	K05820
+genecall_4999
+genecall_5000	K19224
+genecall_5001	K02819
+genecall_5002	K01226
+genecall_5003
+genecall_5004
+genecall_5005	K06384
+genecall_5006
+genecall_5007	K01515
+genecall_5008
+genecall_5009
+genecall_5010
+genecall_5011
+genecall_5012	K01029
+genecall_5013	K01028
+genecall_5014	K00626
+genecall_5015	K01640
+genecall_5016
+genecall_5017	K06889
+genecall_5018	K04343
+genecall_5019
+genecall_5020
+genecall_5021
+genecall_5022	K03502
+genecall_5023	K00034
+genecall_5024	K05340
+genecall_5025
+genecall_5026	K07124
+genecall_5027
+genecall_5028	K00286
+genecall_5029
+genecall_5030	K00354
+genecall_5031
+genecall_5032	K01834
+genecall_5033	K00784
+genecall_5034	K00036
+genecall_5035	K07130
+genecall_5036
+genecall_5037
+genecall_5038
+genecall_5039
+genecall_5040
+genecall_5041	K00033
+genecall_5042	K02346
+genecall_5043	K03408
+genecall_5044	K01258
+genecall_5045	K01966
+genecall_5046	K05606
+genecall_5047
+genecall_5048
+genecall_5049
+genecall_5050	K23060
+genecall_5051	K17077
+genecall_5052	K23059
+genecall_5053
+genecall_5054	K07588
+genecall_5055	K01847
+genecall_5056	K01847
+genecall_5057
+genecall_5058	K09699
+genecall_5059	K00167
+genecall_5060	K00166
+genecall_5061	K00382
+genecall_5062	K00929
+genecall_5063	K00263
+genecall_5064	K00634
+genecall_5065
+genecall_5066
+genecall_5067	K01126
+genecall_5068
+genecall_5069	K07699
+genecall_5070	K06399
+genecall_5071	K03631
+genecall_5072	K03402
+genecall_5073	K06442
+genecall_5074	K01662
+genecall_5075
+genecall_5076	K13789
+genecall_5077	K03602
+genecall_5078	K03601
+genecall_5079	K01491
+genecall_5080	K03625
+genecall_5081
+genecall_5082	K01961
+genecall_5083	K02160
+genecall_5084	K06397
+genecall_5085	K06396
+genecall_5086	K06395
+genecall_5087	K06394
+genecall_5088	K06393
+genecall_5089	K06392
+genecall_5090	K06391
+genecall_5091	K06390
+genecall_5092	K02356
+genecall_5093	K01262
+genecall_5094	K03786
+genecall_5095
+genecall_5096
+genecall_5097	K07001
+genecall_5098	K00525
+genecall_5099	K23734
+genecall_5100
+genecall_5101	K00283
+genecall_5102	K00282
+genecall_5103	K00605
+genecall_5104
+genecall_5105
+genecall_5106
+genecall_5107
+genecall_5108	K00891
+genecall_5109
+genecall_5110	K02248
+genecall_5111
+genecall_5112	K02246
+genecall_5113	K02245
+genecall_5114	K02244
+genecall_5115	K02243
+genecall_5116
+genecall_5117
+genecall_5118
+genecall_5119
+genecall_5120
+genecall_5121
+genecall_5122
+genecall_5123
+genecall_5124
+genecall_5125
+genecall_5126
+genecall_5127
+genecall_5128
+genecall_5129
+genecall_5130
+genecall_5131
+genecall_5132
+genecall_5133
+genecall_5134
+genecall_5135
+genecall_5136
+genecall_5137
+genecall_5138
+genecall_5139
+genecall_5140	K06909
+genecall_5141	K07474
+genecall_5142
+genecall_5143	K24072
+genecall_5144
+genecall_5145
+genecall_5146
+genecall_5147
+genecall_5148
+genecall_5149
+genecall_5150
+genecall_5151
+genecall_5152
+genecall_5153
+genecall_5154	K04769
+genecall_5155	K07455
+genecall_5156
+genecall_5157
+genecall_5158
+genecall_5159
+genecall_5160
+genecall_5161	K07729
+genecall_5162
+genecall_5163
+genecall_5164
+genecall_5165
+genecall_5166
+genecall_5167
+genecall_5168
+genecall_5169
+genecall_5170
+genecall_5171	K06400
+genecall_5172
+genecall_5173	K02243
+genecall_5174
+genecall_5175	K16509
+genecall_5176
+genecall_5177
+genecall_5178	K01069
+genecall_5179
+genecall_5180
+genecall_5181
+genecall_5182
+genecall_5183	K01308
+genecall_5184	K19005
+genecall_5185	K25026
+genecall_5186
+genecall_5413
+genecall_5414	K02810
+genecall_5415
+genecall_5416
+genecall_5417
+genecall_5418
+genecall_5419	K07476
+genecall_5420
+genecall_5421	K02015
+genecall_5422
+genecall_5423	K07089
+genecall_5424	K13745
+genecall_5425	K00928
+genecall_5426
+genecall_5427	K01361
+genecall_5428
+genecall_5429
+genecall_5430	K02829
+genecall_5431
+genecall_5432
+genecall_5433
+genecall_5434
+genecall_5435	K02071
+genecall_5436
+genecall_5437	K02250
+genecall_5438
+genecall_5439
+genecall_5440
+genecall_5441	K02810
+genecall_5442
+genecall_5443
+genecall_5444
+genecall_5445
+genecall_5446	K07476
+genecall_5447
+genecall_5448	K02015
+genecall_5449
+genecall_5450	K07089
+genecall_5451	K13745
+genecall_5452	K00928
+genecall_5453
+genecall_5454	K01361
+genecall_5455
+genecall_5456
+genecall_5457	K02829
+genecall_5458
+genecall_5459
+genecall_5460
+genecall_5461
+genecall_5462	K02071
+genecall_5463
+genecall_5464	K02250
+genecall_5465
+genecall_5466
+genecall_5467	K04075
+genecall_5468
+genecall_5469
+genecall_5470	K00564
+genecall_5471	K02358
+genecall_5472	K01265
+genecall_5473
+genecall_5474	K06296
+genecall_5475	K01887
+genecall_5476	K02053
+genecall_5477	K08981
+genecall_5478	K04757
+genecall_5479
+genecall_5480	K03095
+genecall_5481
+genecall_5482	K03118
+genecall_5484
+genecall_5485	K05567
+genecall_5486
+genecall_5487
+genecall_5488
+genecall_5489
+genecall_5490
+genecall_5491	K06153
+genecall_5492
+genecall_5493
+genecall_5494	K07260
+genecall_5495
+genecall_5496	K03406
+genecall_5497	K02777
+genecall_5498	K07304
+genecall_5499
+genecall_5500
+genecall_5501
+genecall_5502	K07444
+genecall_5503	K00215
+genecall_5504
+genecall_5505
+genecall_5506
+genecall_5507
+genecall_5508	K01586
+genecall_5509
+genecall_5510
+genecall_5511
+genecall_5512	K07775
+genecall_5513
+genecall_5514
+genecall_5515
+genecall_5516
+genecall_5517
+genecall_5518
+genecall_5519
+genecall_5520	K01589
+genecall_5521
+genecall_5522
+genecall_5523	K04565
+genecall_5524	K05833
+genecall_5525	K01649
+genecall_5526	K03316
+genecall_5527
+genecall_5528	K07130
+genecall_5529
+genecall_5530
+genecall_5531
+genecall_5532	K03924
+genecall_5533
+genecall_5534
+genecall_5535
+genecall_5536
+genecall_5537	K03317
+genecall_5538
+genecall_5539
+genecall_5540	K03897
+genecall_5541	K07397
+genecall_5543
+genecall_5544
+genecall_5545
+genecall_5546
+genecall_5547	K07718
+genecall_5548	K01212
+genecall_5549
+genecall_5550	K17865
+genecall_5551
+genecall_5552
+genecall_5553	K17763
+genecall_5554
+genecall_5555	K10118
+genecall_5556
+genecall_5557
+genecall_5558	K00971
+genecall_5559
+genecall_5560
+genecall_5561	K02011
+genecall_5562
+genecall_5563
+genecall_5564
+genecall_5565	K19175
+genecall_5566
+genecall_5567
+genecall_5568
+genecall_5569
+genecall_5570	K14665
+genecall_5571
+genecall_5572	K10947
+genecall_5573
+genecall_5574	K05567
+genecall_5575
+genecall_5576
+genecall_5577
+genecall_5578	K07148
+genecall_5579	K10708
+genecall_5580	K10118
+genecall_5581
+genecall_5582	K11249
+genecall_5583	K09790
+genecall_5584
+genecall_5585
+genecall_5586	K21885
+genecall_5587
+genecall_5588
+genecall_5589
+genecall_5590	K01126
+genecall_5591	K22278
+genecall_5592	K01259
